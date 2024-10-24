@@ -28,7 +28,7 @@ I’m a dedicated Full-Stack Developer who focuses on JavaScript and TypeScript 
 - [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 - [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-## 📫 Get in Touch
+## 📫 Get in Touch:
 
 Email: marko.andonov94@gmail.com
 
