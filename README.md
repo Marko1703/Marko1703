@@ -12,7 +12,6 @@ I’m a dedicated Full-Stack Developer who focuses on JavaScript and TypeScript 
 
 - [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 - [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-- [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 - [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 - [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 - [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
@@ -23,8 +22,6 @@ I’m a dedicated Full-Stack Developer who focuses on JavaScript and TypeScript 
 - [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
 - [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 - [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-- [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
-- [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 - [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 - [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
